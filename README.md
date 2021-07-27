@@ -1,6 +1,9 @@
 # 資策會AIEN12 期末專題報告
+
 Project Name: StuBeat音樂生成網站
+
 組員:陳品彣,林宛儀,吳柏承,蔡奕德,陳奕安,劉致華
+
 部屬網站:http://ec2-54-254-209-235.ap-southeast-1.compute.amazonaws.com/
 
 簡述:
